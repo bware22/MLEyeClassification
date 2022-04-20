@@ -4,10 +4,10 @@ Using MediaPipe to extract facial features and then use Kmeans to classify and l
 This was an independent study for school that I did, original goal was to classify multiple facial features and I may update or create future projects for that, but this just does the eyes, specifically the left eye.
 
 There are four files:
-main.py
-faceNorm.py
-kmeansClust.py
-pipedClust.py
+- main.py
+- faceNorm.py
+- kmeansClust.py
+- pipedClust.py
 ------
 ## main.py
 This py file took the images in and used MediaPipe to extract the necessary datapoints from their landmark detection to get the 
