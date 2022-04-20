@@ -28,6 +28,14 @@ The Silhouette Coefficient.
 ## pipedClust.py
 My attempts to clean up and streamline the process for kmeans, as well as doing Principal Component Analysis, but it was meaningless for the eyes I was working on.
 
+## Future goals
+My goals for the future are to look down these avenues for a more successful result:
+- Hierarchical Clustering
+- Non-Machine Learning models
+  - Procrustes Analysis
+  - Multidimensional dynamic time warping?
+- Add additional features like Nose, Lips, Jaw?
+
 
 ------
 If you have any questions feel free to reach out! I also borrowed a few snippets of code from other projects.
